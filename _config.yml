@@ -9,13 +9,13 @@ baseurl: ''
 # Title of the Site
 title: Magnus Grande
 # Description of the Site
-description: An ever growing e-portfolio
+description: An ever-growing e-portfolio
 # URL of Image of the Site
-site-image: /assets/images/meta.jpg
+site-image: /assets/images/site.png
 # Keywords of the Site
 site-keywords: Portfolio
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /assets/images/favicon.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://upload.wikimedia.org/wikipedia/commons/3/34/2016-11-13_02_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg

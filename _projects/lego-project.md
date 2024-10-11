@@ -8,7 +8,7 @@ long-description: >
 
   The project is very much a learning process, and projects in other subjects will help guide us on our way.<br><br>
 
-  While we were given pre-determined groups at the start of the year, ours has suffered a slight setback as one group member has had their application to have former education count towards this degree, and as a result no longer have to take this particular subject.<br><br>
+  While we were formed as a pre-determined group at the start of the year, ours has suffered a slight setback in recent weeks as one group member has had their application to have former education count towards this degree, and as a result no longer has to take this particular subject.<br><br>
   Nevertheless we're motivated to get a good process going, and to make an end product we can be proud of as a group.<br><br>
 
   The process so far:<br>
@@ -21,6 +21,7 @@ long-description: >
   The process has since been interrupted by another project, Computer Architecture, in the same subject. As this project is now finalized we are shifting focus back over to our beloved Robot, where the actual process can finally begin.<br><br>
 
   Future plans for the process and project as a whole include:<br>
+    <li>Making meaningful progress on the project.
     <li>Learning more about how to conduct good Scrum Retrospectives.
       <ul>
         <li>Finding a balance between the time spent on the retrospective and the time spent on the actual project will be key.</li>

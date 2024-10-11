@@ -63,7 +63,7 @@
             </div>
         </div>
         <div class="header-description">
-            <div>{{ page.long-description | markdownify }}</div>
+            <div>{{ page.long-description | default: page.description | markdownify }}</div>
         </div>
     </section>
 
