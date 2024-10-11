@@ -1,0 +1,78 @@
+<head>
+    {% include head.html %}
+    <style>
+        .header-image {
+            background-image: url('{{ page.image }}');
+            background-size: cover;
+            background-position: center;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            color: white;
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            padding: 0 20px;
+        }
+
+        .header-title {
+            flex: 1;
+            font-size: 2em;
+            margin-right: 20px;
+            text-align: right;
+        }
+
+        .header-description {
+            flex: 2;
+            font-size: 1em; /* Slightly smaller font size */
+            text-align: left;
+            margin-right: 20px; /* Add margin to the right */
+            padding-top: 10px; /* Add padding above the description */
+        }
+
+        .status {
+            text-align: right;
+            font-size: 0.6em;
+            color: gray;
+            margin-top: 5px;
+        }
+
+        .status-icon {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    {% include navbar.html %}
+
+    <!-- Header Section -->
+    <section class="header-image"></section>
+
+    <!-- Title and Description Section -->
+    <section class="header-content">
+        <div class="header-title">
+            <h1>{{ page.title }}</h1>
+            <div class="status">
+                <span class="status-icon">⏰</span> Ongoing
+            </div>
+        </div>
+        <div class="header-description">
+            <div>{{ page.long-description | markdownify }}</div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="section">
+        <div class="container">
+            {{ content }}
+        </div>
+    </section>
+
+    {% include footer.html %}
+</body>
