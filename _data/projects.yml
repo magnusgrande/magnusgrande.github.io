@@ -1,24 +1,24 @@
 - name: Portfolio
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
+  link: /projects/portfolio
   description: A professional portfolio which will follow me through my career.
-  
+
 - name: LEGO-Project
-  link:
+  link: /projects/lego-projects
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: A robot project aimed at completing the 2024 FIRST LEGO League challenge.
-  
+
 - name: Computer Architecture
-  link:
+  link: /projects/computer-architecture
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
   description: An in-depth look at how a computer functions.
-  
+
 - name: Hill Cipher
-  link:
+  link: /projects/hill-cipher
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: A set of tasks and solutions to explain how Hill cipher encryption works.
-  
+
 - name: Pyscript Bundle
-  link:
+  link: /projects/pyscript-bundle
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: A collection of scripts for use in numeric mathematics and physics.

@@ -66,6 +66,12 @@ permalink: "blog/:title"
 compress_html:
   clippings: all
 
+# Collections adds recognition of the projects directory
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 # Defaults
 defaults:
   -
