@@ -66,9 +66,12 @@ hr {
 }
 
 .custom-button {
-    width: 100%;
+    display: inline-block;
+    width: auto;
+    max-width: 100%;
     background-color: #f0f0f0;
     border-color: #f0f0f0;
+    text-align: center;
 }
 
 .searchResult {
