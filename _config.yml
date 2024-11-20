@@ -22,7 +22,7 @@ heroimage: https://upload.wikimedia.org/wikipedia/commons/3/34/2016-11-13_02_Kje
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: magnusgrande@gmail.com
+email: magnugra@stud.ntnu.no
 facebook_username:
 twitter_username:
 instagram_username:
@@ -43,10 +43,10 @@ disqus-shortname: /
 # Name of the Author
 author-name: Magnus Grande
 # URL for the Image of the Author
-author-image: https://media.discordapp.net/attachments/422910717419585555/1294337597102882848/mag.png?ex=670aa552&is=670953d2&hm=9b63d00d793b37a9f851b4c7a650052f285234c2afe303429085123b142a895d&=&format=webp&quality=lossless&width=437&height=437
+author-image: /assets/images/mag.png
 # 60 Words About the Author
 author-about: I am a computer science student at NTNU in Ålesund, Norway. My main interests beyond my line of study are disc golf and floorball. I am also a big fan of polar bears. In this portfolio you will find any and everything one might want to know about me, my life and my future plans.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+# URL to the Author's Profile (i.e., GitHub, Twitter, StackOverflow, etc.)
 author-url: https://github.com/magnusgrande
 
 # SASS
