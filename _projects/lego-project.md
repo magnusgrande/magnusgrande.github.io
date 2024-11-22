@@ -1,38 +1,41 @@
 ---
 layout: project-page
 name: Lego Project
-image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+image: https://m.media-amazon.com/images/I/71PVrBQPnwL._AC_SL1500_.jpg
+type: University
+class: IDATA1004
+class-icon: fas fa-university
+role: Project Lead
+status: Completed
+status-icon: fas fa-check
+date: 2024-11-21
 description: A robot project aimed at completing the 2024 FIRST LEGO League challenge.
 long-description: >
-  The Lego project is a group project with the goals of teaching us how to use good coding practices in a team (using GitLab for version control), implementing lean and other agile processes such as Scrum, and learning what makes a good group tick.<br><br>
+  <b>Intro</b><br>
+  The Lego project is a project handed to first-semester computer science students at NTNU as an introduction to project work in teams.<br><br>
 
-  The project is very much a learning process, and projects in other subjects will help guide us on our way.<br><br>
+  While the assignment itself is to design and develop a Lego robot capable of solving the given year's First Lego League challenge, the true intention is for the students to learn how to best apply their skills in a group environment, and to explore frameworks and processes for agile development including, but by no means limited to, Scrum, Lean and Kanban.<br><br>
 
-  While we were formed as a pre-determined group at the start of the year, ours has suffered a slight setback in recent weeks as one group member has had their application to have former education count towards this degree, and as a result no longer has to take this particular subject.<br><br>
-  Nevertheless we're motivated to get a good process going, and to make an end product we can be proud of as a group.<br><br>
-
-  The process so far:<br>
-    <li>We've had our first Scrum meeting with a student assistant. We had not had the time to plan this properly, and are aiming to improve manyfold by the next one, which has yet to be planned.</li>
-    <li>We have decided as a group on our approach to the robot itself, and how it's unwise for us to plan for solving every problem on the board.
-        <li>We would much rather make a robot with clever solutions to a few problems, than a robot that can, technically, solve all of them, though none of them well enough by our standards.</li>
-    </li>
+  As first-semester students we were given pre-determined groups, and set out to learn to cooperate and work together as a team.<br><br>
+  
+  <b>Process</b><br>
+  Having completed the project in November of 2024, some of the major milestones include:<br>
+    <li>We, as a group, decided on a set of rules and guidelines for how we wanted to work together, and how we wanted to conduct our Scrum meetings.</li>
+    <li>We held five Scrum Retrospective meetings, two of which had a student-assistant sitting in to give notes and advice on our process.</li>
+    <li>We built a robot capable of solving a subset of the tasks on the playing field, and were able to demonstrate this to our fellow students, along with a presentation of the group and the process we had undergone.</li>
+    <li>We found a role- and work distribution that suited the group well, allowing the two group members with a more creative and technical interest to focus on the robot, while the other two took care of the extensive project report and administrative duties.</li>
+    <li>And finally, we ended the project with an end-product we were all happy with, and plenty newfound experience in working as a team.</li>
   <br><br>
-
-  The process has since been interrupted by another project, Computer Architecture, in the same subject. As this project is now finalized we are shifting focus back over to our beloved Robot, where the actual process can finally begin.<br><br>
-
-  Future plans for the process and project as a whole include:<br>
-    <li>Making meaningful progress on the project.
-    <li>Learning more about how to conduct good Scrum Retrospectives.
-      <ul>
-        <li>Finding a balance between the time spent on the retrospective and the time spent on the actual project will be key.</li>
-      </ul>
-    </li>
-    <li>Naming our robot.
-      <ul>
-        <li>Every good robot has a name.</li>
-      </ul>
-    </li>
-    <li>Setting clearer boundaries and expectations for the group, so as to avoid issues like the ones we faced in the Computer Architecture project.</li>
-    <li>Setting up a proper GitLab repository for the project.</li>
-    <li>Building a somewhat ambitious internal coordinate system for the robot to navigate its way around the board with.</li>
+  
+  <b>Role</b><br>
+  I took on the role (as decided by the rest of the group on a day I was not present to defend myself) as group leader for the project. I was responsible for keeping track of the group's progress, and for making sure we were on track to meet our deadlines. I also took on the role of Scrum Master, and was responsible for conducting the Scrum meetings, and for making sure the group was following the guidelines we had set for ourselves.<br><br>
+  My primary responsibility in the process was writing, and ensuring the report held a high standard. This was slightly complicated by the lack of information given to us, but nevertheless successful in the end.<br><br>
+  <br>
+  
+  <b>Future</b><br>
+  Starting the project, I knew I was capable of leading a group, but I also knew I didn't really enjoy doing it. I've always preferred being in a position where I have the option of taking on responsibility, but where I don't have to do so. Once responsibility becomes an obligation, it starts to feel like a burden, and I find it harder to enjoy the work I'm doing.<br>
+  This project has taught me that I am more capable than I first thought, and that this could well be something I look to specialize into in the future.<br><br>
+  At the time of writing I have concrete plans for my groups in the coming semester, and I will once again don the mantle of group leader for the project. This time with group members whose philosophy on working in teams will mesh better with my own.<br><br>
+  <br>
+  *This page will be updated to include a 3D-view of the finished product once our designer has had the time to export it and share it with the group. (and once I have figured out how I plan on implementing that on a website which has no moving parts at the moment)
 ---

@@ -66,6 +66,7 @@ a.navbar-item.is-active {
 }
 .subtitle {
     letter-spacing: 0.25rem;
+    font-family: 'Poppins', sans-serif;
 }
 
 #about {
@@ -352,4 +353,18 @@ a.navbar-item.is-active {
             display: inline-block;
         }
     }
+}
+
+#focus .progress-bar {
+    margin-bottom: 1.5rem;
+}
+
+#focus .progress-bar p {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+#focus .progress-bar progress {
+    border: 1px solid #000; /* Change the color and width as needed */
+    border-radius: 5px; /* Optional: to match the rounded corners of the progress bar */
 }

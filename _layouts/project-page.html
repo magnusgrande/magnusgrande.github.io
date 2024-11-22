@@ -31,7 +31,7 @@
             flex: 2;
             font-size: 1em; /* Slightly smaller font size */
             text-align: left;
-            margin-right: 20px; /* Add margin to the right */
+            margin-right: 100px; /* Add margin to the right */
             padding-top: 10px; /* Add padding above the description */
         }
 
@@ -59,7 +59,16 @@
         <div class="header-title">
             <h1>{{ page.title }}</h1>
             <div class="status">
-                <span class="status-icon">⏰</span> Ongoing
+                <span class="status-icon"><i class="{{ page.status-icon }}"></i></span> {{ page.status }}
+            </div>
+            <div class="status">
+                <span class="status-icon"><i class="fas fa-calendar-alt"></i></span> {{ page.date | date: "%B %d, %Y" }}
+            </div>
+            <div class="status">
+                <span class="status-icon"><i class="fas fa-user"></i></span> {{ page.role }}
+            </div>
+            <div class="status">
+                <span class="status-icon"><i class="{{ page.class-icon }}"></i></span> {{ page.class }}
             </div>
         </div>
         <div class="header-description">
