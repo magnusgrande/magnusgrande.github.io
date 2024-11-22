@@ -1,7 +1,7 @@
-- name: Portfolio
+- name: E-Portfolio
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: /projects/portfolio
-  description: A professional portfolio which will follow me through my career.
+  description: A professional E-Portfolio which will follow me through my career.
 
 - name: LEGO-Project
   link: /projects/lego-project
@@ -22,3 +22,8 @@
   link: /projects/pyscript-bundle
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: A collection of scripts for use in numeric mathematics and physics.
+
+- name: Java Portfolio
+  link: /projects/oop-portfolio
+  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  description: A portfolio of Java Projects focused on Object-Oriented Programming.

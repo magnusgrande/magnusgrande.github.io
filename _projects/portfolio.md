@@ -1,6 +1,7 @@
 ---
 layout: project-page
-name: Portfolio
+name: E-Portfolio
+title: E-Portfolio
 image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
 description: A professional portfolio which will follow me through my career.
 status: Continual Development
@@ -13,7 +14,7 @@ long-description: >
   
   Much like a resumé, I doubt this will ever be truly finished. The plan is to keep it updated with new projects and experiences as I go along. I also hope to keep it updated with new features and improvements as I learn more about web development and design.<br><br>
 
-  The portfolio is built using Jekyll, a static site generator, and is hosted on GitHub Pages. The template used is called WhatATheme, by TheDevsLot, and can be found linked at the bottom of any page on the site.<br><br>
+  The portfolio is built using Jekyll, a static site generator, and is hosted on GitHub Pages. The template used is called WhatATheme, was created and shared by TheDevsLot, and can be found linked at the bottom of any page on the site.<br><br>
 
   Notable changes from the original template include:
     <li>Project pages for each individual project, custom made to suit my needs, with the current status of the project on the left, and a longer description on the right.</li>
