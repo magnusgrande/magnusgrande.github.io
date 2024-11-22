@@ -25,5 +25,4 @@ long-description: >
     <li>Adding a page dedicated page for crediting the sources of what few images I have used.</li>
     <li>Implementing a more in-depth 'About Me'-page.</li>
     <li>Creating a separate page for Skills and Certifications.</li>
-  
 ---
