@@ -58,18 +58,26 @@
     <section class="header-content">
         <div class="header-title">
             <h1>{{ page.title }}</h1>
+            {% if page.status %}
             <div class="status">
                 <span class="status-icon"><i class="{{ page.status-icon }}"></i></span> {{ page.status }}
             </div>
+            {% endif %}
+            {% unless page.date %}
             <div class="status">
                 <span class="status-icon"><i class="fas fa-calendar-alt"></i></span> {{ page.date | date: "%B %d, %Y" }}
             </div>
+            {% endunless %}
+            {% if page.role %}
             <div class="status">
                 <span class="status-icon"><i class="fas fa-user"></i></span> {{ page.role }}
             </div>
+            {% endif %}
+            {% if page.class %}
             <div class="status">
                 <span class="status-icon"><i class="{{ page.class-icon }}"></i></span> {{ page.class }}
             </div>
+            {% endif %}
         </div>
         <div class="header-description">
             <div>{{ page.long-description | default: page.description | markdownify }}</div>
