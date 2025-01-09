@@ -37,7 +37,7 @@ author-name: Magnus Grande
 # URL for the Image of the Author
 author-image: /assets/images/mag.png
 # About section on the front page
-author-about: I am a computer science student at NTNU in Ålesund, Norway.<br> My main interests beyond my line of study are disc golf (since 2019) and floorball (since 2014).<br> This Portfolio should, ideally, have everything you need to know about me, my academic progress and the projects I'm working on.
+author-about: I am a computer science student at NTNU in Ålesund, Norway.<br> My main interests beyond my line of study are disc golf and floorball.<br> This Portfolio should, ideally, have everything you need to know about me, my academic progress and the projects I'm working on.
 # URL to the Author's Profile (i.e., GitHub, Twitter, StackOverflow, etc.)
 author-url: https://github.com/magnusgrande
 
